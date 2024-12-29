@@ -1,2 +1,4 @@
 # git-demo
-this is a test repo
+This is a test repo
+<br/>
+This is just to demonstrate
